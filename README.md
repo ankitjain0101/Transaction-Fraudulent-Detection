@@ -10,6 +10,7 @@ Performed Hyperparameter tuning method either to increase the predictive power o
 Implemented grid search with cross validation technique on validation set to attain best parameters then train the models with these parameters and evaluate its performance on the test set.
 
 •	Trained a logistic regression to identify whether a new transaction is fraudulent or not and attain precision up to 75%
+
 •	Reduce error rate by 30% and improved Matthew’s Correlation Coefficient by 18% using Decision Tree and Random Forest
 
 
